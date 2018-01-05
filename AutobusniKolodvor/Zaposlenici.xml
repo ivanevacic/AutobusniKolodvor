@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Zaposlenici>
+  <Zaposlenik Korisnicko_ime="Zaposlenik1" Lozinka="12345"></Zaposlenik>
+  <Zaposlenik Korisnicko_ime="Zaposlenik2" Lozinka="67890"></Zaposlenik>
+</Zaposlenici>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Gradovi>
+    <Grad ID="1" Naziv_grada="Koprivnica" Latituda="46.164958953857422" Longituda="16.831729888916016" Dostupan="0"/>
+    <Grad ID="2" Naziv_grada="Virovitica" Latituda="45.832557678222656" Longituda="17.387809753417969" Dostupan="1"/>
+    <Grad ID="3" Naziv_grada="Varazdin" Latituda="46.305599212646484" Longituda="16.33770751953125" Dostupan="1"/>
+    <Grad ID="4" Naziv_grada="Cakovec" Latituda="46.388458251953125" Longituda="16.436511993408203" Dostupan="0"/>
+    <Grad ID="5" Naziv_grada="Osijek" Latituda="45.555141448974609" Longituda="18.695245742797852" Dostupan="1"/>
+    <Grad ID="6" Naziv_grada="Velika Gorica" Latituda="45.729160308837891" Longituda="16.072610855102539" Dostupan="1"/>
+    <Grad ID="7" Naziv_grada="Karlovac" Latituda="45.516105651855469" Longituda="15.542675018310547" Dostupan="1"/>
+    <Grad ID="8" Naziv_grada="Pula" Latituda="44.864143371582031" Longituda="13.85003662109375" Dostupan="0"/>
+    <Grad ID="9" Naziv_grada="Rijeka" Latituda="45.327117919921875" Longituda="14.442026138305664" Dostupan="1"/>
+    <Grad ID="10" Naziv_grada="Zadar" Latituda="44.118057250976563" Longituda="15.231593132019043" Dostupan="1"/>
+    <Grad ID="11" Naziv_grada="Sibenik" Latituda="43.733062744140625" Longituda="15.893759727478027" Dostupan="0"/>
+    <Grad ID="12" Naziv_grada="Split" Latituda="43.507633209228516" Longituda="16.440509796142578" Dostupan="1"/>
+    <Grad ID="13" Naziv_grada="Makarska" Latituda="43.293739318847656" Longituda="17.020633697509766" Dostupan="1"/>
+    <Grad ID="14" Naziv_grada="Gospic" Latituda="44.546051025390625" Longituda="15.37394905090332" Dostupan="0"/>
+    <Grad ID="15" Naziv_grada="Pazin" Latituda="45.23974609375" Longituda="13.937484741210938" Dostupan="1"/>
+    <Grad ID="12" Naziv_grada="Test" Latituda="45.525249481201172" Longituda="16.51515007019043" Dostupan="1"/>
+    <Grad ID="16" Naziv_grada="jhjhjh" Latituda="45.656558990478516" Longituda="15.125149726867676" Dostupan="1"/>
+    <Grad ID="17" Naziv_grada="Test" Latituda="-9.2559631349317831e+61" Longituda="-9.2559631349317831e+61" Dostupan="1"/>
+</Gradovi>

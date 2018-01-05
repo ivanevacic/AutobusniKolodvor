@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Karte>
+    <Karta Datum_kreiranja_karte="2017-05-14" Polaziste="Koprivnica" Odrediste="Virovitica" Tip_karte="Jednosmjerna" Udaljenost="56.540290832519531" Cijena="25.443130493164063"/>
+    <Karta Datum_kreiranja_karte="2017-05-16" Polaziste="Koprivnica" Odrediste="Virovitica" Tip_karte="Jednosmjerna" Udaljenost="56.540290832519531" Cijena="25.443130493164063"/>
+    <Karta Datum_kreiranja_karte="2017-05-17" Polaziste="Virovitica" Odrediste="Varazdin" Tip_karte="Jednosmjerna" Udaljenost="96.372261047363281" Cijena="43.367515563964844"/>
+    <Karta Datum_kreiranja_karte="2017-05-17" Polaziste="Virovitica" Odrediste="Varazdin" Tip_karte="Jednosmjerna" Udaljenost="96.372261047363281" Cijena="43.367515563964844"/>
+    <Karta Datum_kreiranja_karte="2017-05-17" Polaziste="Virovitica" Odrediste="Varazdin" Tip_karte="Jednosmjerna" Udaljenost="96.372261047363281" Cijena="43.367515563964844"/>
+    <Karta Datum_kreiranja_karte="2017-05-13" Polaziste="Koprivnica" Odrediste="Koprivnica" Tip_karte="Jednosmjerna" Udaljenost="0" Cijena="0"/>
+    <Karta Datum_kreiranja_karte="2017-05-20" Polaziste="Virovitica" Odrediste="Varazdin" Tip_karte="Jednosmjerna" Udaljenost="96.372261047363281" Cijena="43.367515563964844"/>
+    <Karta Datum_kreiranja_karte="2017-05-20" Polaziste="Virovitica" Odrediste="Varazdin" Tip_karte="Jednosmjerna" Udaljenost="96.372259305856048" Cijena="43.367516687635224"/>
+</Karte>
